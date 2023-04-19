@@ -1,8 +1,8 @@
-package com.QoraanAcademy.Repository;
-
-import org.springframework.stereotype.Repository;
-
-@Repository
-public class SessionRepository extends mongoReposit{
-
-}
+//package com.QoraanAcademy.Repository;
+//
+//import org.springframework.stereotype.Repository;
+//
+//@Repository
+//public class SessionRepository extends mongoReposit{
+//
+//}

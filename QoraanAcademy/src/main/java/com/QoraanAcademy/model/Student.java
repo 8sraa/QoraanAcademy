@@ -21,6 +21,10 @@ public class Student extends Person{
 		this.sessionsPerWeek = sessionsPerWeek;
 	}
 	
+	public Student() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public int getTajweedLevel() {
 		return tajweedLevel;
 	}
